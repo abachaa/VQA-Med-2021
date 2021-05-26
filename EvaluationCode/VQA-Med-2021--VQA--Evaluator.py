@@ -463,7 +463,7 @@ import re
 #__author__ = 'aagrawal'
 # This code is based on the code written by Tsung-Yi Lin for MSCOCO Python API available at the following link: 
 # (https://github.com/tylin/coco-caption/blob/master/pycocoevalcap/eval.py).
-# Adapted for ImageCLEF VQA-Med 2021 by Vivek Datla, Sadid A. Hasan, and Mourad Sarrouti.
+# Adapted for ImageCLEF VQA-Med by Vivek Datla, Sadid A. Hasan, and Mourad Sarrouti.
 
 class VQAEval: 
   def __init__(self, vqa, vqaRes, n=2):
