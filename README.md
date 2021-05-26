@@ -46,19 +46,18 @@ If you use the VQA-Med 2021 dataset, please cite our paper: "Overview of the VQA
 Asma Ben Abacha, Mourad Sarrouti, Dina Demner-Fushman, Sadid A. Hasan, and Henning Müller. CLEF 2021 Working Notes. 
 
 @Inproceedings{ImageCLEF-VQA-Med2021,
-author = {Asma {Ben Abacha} and Mourad Sarrouti and Dina Demner-Fushman and Sadid A. Hasan and Henning M\"uller},
-title = {Overview of the VQA-Med Task at ImageCLEF 2021: Visual Question Answering and Generation in the Medical Domain},
-booktitle = {CLEF 2021 Working Notes},
-series = {{CEUR} Workshop Proceedings},
-year = {2021},
-volume = {},
-publisher = {CEUR-WS.org},
-pages = {},
-month = {September 21-24},
-address = {Bucharest, Romania}
-}
+
+    author = {Asma {Ben Abacha} and Mourad Sarrouti and Dina Demner-Fushman and Sadid A. Hasan and Henning M\"uller},
+    title = {Overview of the VQA-Med Task at ImageCLEF 2021: Visual Question Answering and Generation in the Medical Domain},
+    booktitle = {CLEF 2021 Working Notes},
+    series = {{CEUR} Workshop Proceedings},
+    year = {2021},
+    publisher = {CEUR-WS.org},
+    month = {September 21-24},
+    address = {Bucharest, Romania} 
+    }
     
-    
+     
 Contact Information
 --------------------
 
