@@ -10,7 +10,7 @@ import tempfile
 import json
 
 
-# IMAGECLEF 2021 VQA-Med - VQG
+# ImageCLEF 2021 VQA-Med - VQG
 #  Code written by Vivek Datla, Sadid A. Hasan, and Mourad Sarrouti.
 
 class AIcrowdEvaluator:
