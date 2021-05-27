@@ -28,6 +28,12 @@ VQG Data:
 
 - The VQG 2021 test set includes 100 radiology images. Participants were tasked with generating distinct questions that are relevant to the visual content of the images. 
 
+=> Validation Sets: https://github.com/abachaa/VQA-Med-2021/blob/main/VQA-Med-2021-Tasks-1-2-NewValidationSets.zip
+
+=> VQA Test Set & Ground Truth: https://github.com/abachaa/VQA-Med-2021/blob/main/Task1-VQA-2021-TestSet-w-GroundTruth.zip 
+
+=> VQG Test Set & Ground Truth: https://github.com/abachaa/VQA-Med-2021/blob/main/Task2-VQG-2021-TestSet-w-GroundTruth.zip 
+
 Evaluation Metrics
 ------------------
 
@@ -37,7 +43,7 @@ BLEU: We used the BLEU metric to capture the similarity between a system-generat
 
 The following preprocessing is applied before running the evaluation metrics on each answer: (i) each answer is converted to lower-case, and (ii) all punctuations are removed and the answer is tokenized to individual words. 
 
-Code: 
+Code: https://github.com/abachaa/VQA-Med-2021/tree/main/EvaluationCode 
 
 Reference
 ----------
