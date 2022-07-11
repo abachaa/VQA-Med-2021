@@ -1,0 +1,2009 @@
+{
+    "info": "",
+    "task_type": "vqa_imageclef_2021",
+    "license": "",
+    "data_type": "questions",
+    "data_subtype": "script_test",
+    "questions": [
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic42072"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic37231"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic51484"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic15699"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic33852"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic2923"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic29235"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic100585"
+        },
+        {
+            "question": "what is seen in the image?",
+            "question_id": "synpic35354"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic46824"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic42797"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic51298"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic25210"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic22728"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic24665"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic46204"
+        },
+        {
+            "question": "what abnormality is seen in this x-ray?",
+            "question_id": "synpic24999"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic100453"
+        },
+        {
+            "question": "what is seen in this x-ray?",
+            "question_id": "synpic53559"
+        },
+        {
+            "question": "what is abnormal in the ultrasound?",
+            "question_id": "synpic33445"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic33985"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic42967"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic22524"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic22948"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic25238"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic52862"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic18262"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic50609"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic37098"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic27718"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic26209"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic56090"
+        },
+        {
+            "question": "what is most alarming about this nuclear medicine image?",
+            "question_id": "synpic39790"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic38678"
+        },
+        {
+            "question": "what is most alarming about this gastrointestinal image?",
+            "question_id": "synpic37066"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic52157"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic55299"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic43969"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic59782"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic51655"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic43621"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic23810"
+        },
+        {
+            "question": "what is most alarming about this ultrasound?",
+            "question_id": "synpic43898"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic22228"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic50369"
+        },
+        {
+            "question": "what is most alarming about this ultrasound?",
+            "question_id": "synpic27204"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic21178"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic42258"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic21536"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic47785"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic29229"
+        },
+        {
+            "question": "what is abnormal in the ultrasound?",
+            "question_id": "synpic41496"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic27108"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic35317"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic22767"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic34395"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic54304"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic53075"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic31891"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic100580"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic32871"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic58069"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic32933"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic16913"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic39915"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic24947"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic46231"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic49488"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic55756"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic41994"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic59282"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic30983"
+        },
+        {
+            "question": "what is seen in the ct scan?",
+            "question_id": "synpic16203"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic36989"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic24245"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic25125"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic55762"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic36992"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic32759"
+        },
+        {
+            "question": "what is abnormal in the angiogram?",
+            "question_id": "synpic56770"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic17563"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic55774"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic55382"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic41672"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic51200"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic29726"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic52935"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic22578"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic27104"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic20327"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic42991"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic31920"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic46592"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic27984"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic60667"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic49843"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic53568"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic59335"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic22798"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic15810"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic100584"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic39647"
+        },
+        {
+            "question": "what is abnormal in the angiogram?",
+            "question_id": "synpic16028"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic20002"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic53139"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic42247"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic52861"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic24351"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic29754"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic17013"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic59273"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic16388"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic23762"
+        },
+        {
+            "question": "what is most alarming about this ultrasound?",
+            "question_id": "synpic29681"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic18567"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic26527"
+        },
+        {
+            "question": "what is abnormal in the ultrasound?",
+            "question_id": "synpic27494"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic39432"
+        },
+        {
+            "question": "what is most alarming about this ultrasound?",
+            "question_id": "synpic17129"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic47180"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic37257"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic31909"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic16218"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic33268"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic52072"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic42585"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic40872"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic56637"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic60060"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic28145"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic40535"
+        },
+        {
+            "question": "what is abnormal in the ultrasound?",
+            "question_id": "synpic30899"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic38166"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic27010"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic34148"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic48161"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic47935"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic35742"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic59714"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic20119"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic21759"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic32329"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic40875"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic29664"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic54621"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic43739"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic43932"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic54589"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic33199"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic20294"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic29727"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic53121"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic16394"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic22378"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic22786"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic50607"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic28082"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic26367"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic47250"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic31719"
+        },
+        {
+            "question": "what is seen in the image?",
+            "question_id": "synpic100462"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic20015"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic33113"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic54535"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic32244"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic56731"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic44467"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic26972"
+        },
+        {
+            "question": "what is seen in this image?",
+            "question_id": "synpic17677"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic31666"
+        },
+        {
+            "question": "what is abnormal in the gastrointestinal image?",
+            "question_id": "synpic22580"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic41199"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic51880"
+        },
+        {
+            "question": "what is seen in this image?",
+            "question_id": "synpic29058"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic28808"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic52878"
+        },
+        {
+            "question": "what is abnormal in the angiogram?",
+            "question_id": "synpic56774"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic22839"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic55755"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic48310"
+        },
+        {
+            "question": "what is most alarming about this ultrasound?",
+            "question_id": "synpic43587"
+        },
+        {
+            "question": "what is abnormal in the ultrasound?",
+            "question_id": "synpic22370"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic40379"
+        },
+        {
+            "question": "what is seen in the x-ray?",
+            "question_id": "synpic17161"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic55104"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic32615"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic34502"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic39784"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic34324"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic54047"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic31791"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic29050"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic31892"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic22876"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic28987"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic39914"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic37232"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic30752"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic22253"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic41207"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic41396"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic54057"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic32059"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic26941"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic31570"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic31958"
+        },
+        {
+            "question": "what is seen in the image?",
+            "question_id": "synpic18577"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic53067"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic55381"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic26202"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic39808"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic23531"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic38589"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic19564"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic51459"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic51142"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic23777"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic28543"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic24410"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic55743"
+        },
+        {
+            "question": "what is seen in this gastrointestinal image?",
+            "question_id": "synpic1050"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic18873"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic24242"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic22031"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic29049"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic23060"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic40468"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic45709"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic29651"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic58004"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic26677"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic32648"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic49465"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic18435"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic32327"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic54520"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic42806"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic19183"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic27750"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic34409"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic32821"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic29658"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic19010"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic38597"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic38833"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic17767"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic26669"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic15790"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic31821"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic50771"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic52783"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic19648"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic50772"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic49087"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic32934"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic51654"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic43460"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic32061"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic17744"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic32313"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic54528"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic45066"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic29750"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic26826"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic46504"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic28555"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic45713"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic58399"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic32696"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic27587"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic28923"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic42068"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic26538"
+        },
+        {
+            "question": "what is seen in the image?",
+            "question_id": "synpic45941"
+        },
+        {
+            "question": "what is most alarming about this ultrasound?",
+            "question_id": "synpic19184"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic32151"
+        },
+        {
+            "question": "what is most alarming about this angiogram?",
+            "question_id": "synpic16215"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic55742"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic42809"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic22317"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic43687"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic32650"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic42023"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic46975"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic31402"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic30680"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic53556"
+        },
+        {
+            "question": "what is most alarming about this ultrasound?",
+            "question_id": "synpic34165"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic46732"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic592"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic37873"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic22661"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic24422"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic8222"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic54384"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic33440"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic32225"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic37731"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic52604"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic100463"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic33849"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic56768"
+        },
+        {
+            "question": "what is abnormal in the ultrasound?",
+            "question_id": "synpic31100"
+        },
+        {
+            "question": "what is abnormal in the angiogram?",
+            "question_id": "synpic50573"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic31079"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic32387"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic16908"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic57721"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic29817"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic52848"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic42262"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic26529"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic56617"
+        },
+        {
+            "question": "what is most alarming about this mammograph?",
+            "question_id": "synpic17788"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic24147"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic60344"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic45046"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic25208"
+        },
+        {
+            "question": "what is abnormal in the gastrointestinal image?",
+            "question_id": "synpic12950"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic35643"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic42586"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic23543"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic55741"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic54287"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic36418"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic54750"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic22256"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic24419"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic51811"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic39317"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic16043"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic17493"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic22660"
+        },
+        {
+            "question": "what is most alarming about this ultrasound?",
+            "question_id": "synpic20019"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic32645"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic22927"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic33991"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic22606"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic29192"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic23760"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic21811"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic33438"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic18633"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic32094"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic53836"
+        },
+        {
+            "question": "what is abnormal in the ultrasound?",
+            "question_id": "synpic28641"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic47202"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic31689"
+        },
+        {
+            "question": "what is most alarming about this gastrointestinal image?",
+            "question_id": "synpic20036"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic56906"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic55464"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic31298"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic27975"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic39430"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic47249"
+        },
+        {
+            "question": "what is most alarming about this ultrasound?",
+            "question_id": "synpic22106"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic55095"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic55760"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic100464"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic46422"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic54785"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic22997"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic31554"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic37252"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic19414"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic33529"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic23651"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic42200"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic31425"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic28680"
+        },
+        {
+            "question": "what is most alarming about this angiogram?",
+            "question_id": "synpic58391"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic25413"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic39188"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic34629"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic24239"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic38839"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic38605"
+        },
+        {
+            "question": "what is abnormal in the gastrointestinal image?",
+            "question_id": "synpic32846"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic32695"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic32681"
+        },
+        {
+            "question": "what is abnormal in the ultrasound?",
+            "question_id": "synpic29824"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic50613"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic41497"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic31407"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic22987"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic22656"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic36907"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic15440"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic23265"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic21830"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic24469"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic51478"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic27181"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic23948"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic23201"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic16804"
+        },
+        {
+            "question": "what is abnormal in the ultrasound?",
+            "question_id": "synpic26943"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic22594"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic22899"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic21570"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic29756"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic34122"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic58602"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic40304"
+        },
+        {
+            "question": "what is seen in the x-ray?",
+            "question_id": "synpic100583"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic34711"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic16255"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic16899"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic50770"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic52302"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic22449"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic51236"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic55265"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic29833"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic25035"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic57437"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic37400"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic31451"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic39774"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic19532"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic36694"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic31143"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic27931"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic24698"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic52605"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic16864"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic17522"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic21173"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic22340"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic18936"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic18787"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic42576"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic39918"
+        },
+        {
+            "question": "what is most alarming about this ultrasound?",
+            "question_id": "synpic19413"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic50575"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic43618"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic45858"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic40469"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic33432"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic32163"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic29230"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic46635"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic46825"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic56204"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic33352"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic58049"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic23500"
+        },
+        {
+            "question": "what is abnormal in the ultrasound?",
+            "question_id": "synpic27901"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic53119"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic27904"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic56630"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic46499"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic18534"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic39624"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic31123"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic55398"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic42066"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic27447"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic51288"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic58680"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic54521"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic59048"
+        },
+        {
+            "question": "what is most alarming about this ultrasound?",
+            "question_id": "synpic28650"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic27243"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic56881"
+        },
+        {
+            "question": "what is most alarming about this ultrasound?",
+            "question_id": "synpic55193"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic18613"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic33243"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic16256"
+        },
+        {
+            "question": "what is abnormal in the gastrointestinal image?",
+            "question_id": "synpic50752"
+        },
+        {
+            "question": "what is abnormal in the mri?",
+            "question_id": "synpic24948"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic49454"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic23787"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic21266"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic31627"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic59042"
+        },
+        {
+            "question": "what is most alarming about this ct scan?",
+            "question_id": "synpic32171"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic36231"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic40614"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic49071"
+        },
+        {
+            "question": "what is abnormal in the x-ray?",
+            "question_id": "synpic32386"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic51653"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic43619"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic32167"
+        },
+        {
+            "question": "what is abnormal in the mammograph?",
+            "question_id": "synpic20964"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic42218"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic22924"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic55295"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic35736"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic27198"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic21974"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic42590"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic15444"
+        },
+        {
+            "question": "what is the primary abnormality in this image?",
+            "question_id": "synpic32201"
+        },
+        {
+            "question": "what is most alarming about this x-ray?",
+            "question_id": "synpic20694"
+        },
+        {
+            "question": "what is abnormal in the ct scan?",
+            "question_id": "synpic52304"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic32176"
+        },
+        {
+            "question": "what abnormality is seen in the image?",
+            "question_id": "synpic54519"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic42577"
+        },
+        {
+            "question": "what is most alarming about this mri?",
+            "question_id": "synpic33850"
+        }
+    ]
+}

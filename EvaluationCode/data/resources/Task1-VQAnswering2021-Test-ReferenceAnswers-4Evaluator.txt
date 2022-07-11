@@ -1,0 +1,500 @@
+synpic42072|avascular necrosis|extensive degenerative changes on the bilateral femoral heads and acetabula.|Avascular Necrosis of femoral heads bilaterally with associated osteoarthritic changes
+synpic37231|pulmonary embolism
+synpic51484|osteopoikilosis|osteosclerotic lesions
+synpic15699|takayasu arteritis|multifocal stenosis of the great vessels and branch vessels
+synpic33852|acl injury
+synpic2923|subpleural pulmonary nodules which are concerning for metastatic disease
+synpic29235|Ovary with multiple peripheral follicles
+synpic100585|internal fixation device|placement of thoracic hardware at the T1 level
+synpic35354|Plain film radiographs of the ankle are normal, without evidence of periosteal reaction, fracture, effusion or bone erosion.
+synpic46824|empyema|Pleural effusion and collapse of lung
+synpic42797|extensive spinal cord mass. The spinal canal is diffusely remodeled and enlarged.
+synpic51298|cholelithiasis
+synpic25210|nodular sclerosing hodgkin’s lymphoma|an anterior mediastinal mass and right hilar mass
+synpic22728|chance-type fracture
+synpic24665|an anterior mediastinal and lingular mass and mediastinal adeonopathy
+synpic46204|endometrioma
+synpic24999|pneumonia|decreased peripheral opacities within the right lower lung consistent with partially resolved pneumonia
+synpic100453|right c6 radiculopathy and ankylosing spondylitis|Facet arthropathy involving mid and lower lumbar spine levels. Mild anterolisthesis of L4 over L5 and L5 over S1.
+synpic53559|supra-renal inferior vena cava clot|inferior vena cava (IVC) filter placement
+synpic33445|lipoma arborescens|effusion and synovial hypertophy with frond-like projections
+synpic33985|Non-aggressive lytic lesion with a sclerotic rim in the left greater trochanter
+synpic42967|supracondylar fracture
+synpic22524|multiple hereditary exostosis|a bony exostosis from the distal head of the radius
+synpic22948|ovarian torsion|Large heterogeneous pelvic mass displacing the uterus anteriorly
+synpic25238|double aortic arch
+synpic52862|quadriceps tendon rupture
+synpic18262|tibial plateau fracture
+synpic50609|Permeative, lytic lesion with wide zone of transition and aggressive periosteal reaction
+synpic37098|wedge shaped areas of low attenuation in the right kidney
+synpic27718|multiple hereditary exostosis|medullary caivites
+synpic26209|choledocholithiasis|dilated common bile duct
+synpic56090|double aortic arch
+synpic39790|biliary leak, status post laparoscopic cholecystectomy|abnormal blush of radiotracer in the region of the gall bladder fossa and along the left paracolic gutter
+synpic38678|acl injury|disruption of the ACL
+synpic37066|achalasia|dilation of the esophagus with distal tapering at the gastroesophageal junction. A thin stream of barium passes into the stomach
+synpic52157|Mural thickening of the sigmoid colon with paracolonic fat proliferation and inflammatory change affecting the distal ileum.
+synpic55299|tethered spinal cord with terminal spinal lipoma
+synpic43969|pulmonary embolus
+synpic59782|intussusception
+synpic51655|enlargement of distal thoracic spinal cord with pathological enhancement of cord and nerve roots
+synpic43621|crossed fused ectopia
+synpic23810|enlarged lymph nodes, both sides of neck
+synpic43898|varicocele
+synpic22228|deltoid, supraspinatus, teres minor and infraspinatus muscle bellies demonstrate high signal intensity suggestive of Parsonage-Turner Syndrome
+synpic50369|amyloidosis
+synpic27204|hypertrophic pyloric stenosis
+synpic21178|spine, intradural lipoma
+synpic42258|adenocarcinoma of the lung
+synpic21536|horseshoe kidney
+synpic47785|aortic dissection, aortic tear
+synpic29229|Enhancing soft tissue mass lesions within the bilateral cervical lymph node chain.
+synpic41496|renal oncocytoma
+synpic27108|pneumothorax
+synpic35317|pneumonia|consolidation within the right middle lobe overlying the heart shadow which outlines the major fissure
+synpic22767|pericardial cyst|Left middle mediastinum mass
+synpic34395|angiomyolipoma|a fatty mass in the left kidney, with a large subcapsular and perirenal hematoma. A fatty mass in the right kidney.
+synpic54304|schwannoma|Well circumscribed mass adjacent to T3-4.
+synpic53075|Chiari I malformation with tonsilar herniation into the spinal canal. Large cervical spinal cord hydrosyringomyelia.
+synpic31891|a striated nephrogram with bands of alternating high and low attenuation
+synpic100580|failure of posterior cervical hardware at C2 level
+synpic32871|aortic dissection
+synpic58069|a distended bladder from neurogenic bladder caused by Caudal Regression syndrome
+synpic32933|pneumoperitoneum
+synpic16913|Lower pole of the right kidney with staghorn calculus
+synpic39915|atrial septal defect
+synpic24947|enhancement in the right femoral neck and focal elliptical enhancement in the left femoral neck
+synpic46231|talocalcaneal coalition
+synpic49488|dural  fistula, avf
+synpic55756|enlarged subarachnoid space
+synpic41994|osteochondroma|Calcified exocytosis
+synpic59282|hepatic artery aneurysm with calcifications
+synpic30983|angiomyolipoma|Heterogenous lesion of the kidney
+synpic16203|Axial, contrast enhanced, image of the right lower quadrant demonstrates a normal, contrast filled appendix.
+synpic36989|Markedly dilated azygous vein and absence of the hepatic portion of the inferior vena cava.
+synpic24245|cervical spine demonstrates cord enhancement and expansion
+synpic25125|liver hemangioma
+synpic55762|enlarged subarachnoid space
+synpic36992|Markedly dilated azygous vein
+synpic32759|intraosseous lipoma|Large well circumscribed lytic lesion at base of calcaneal neck, with a small focus of central ossification
+synpic56770|dural  fistula, avf
+synpic17563|avascular necrosis|symmetrically located lesions in both femoral heads.
+synpic55774|enlarged subarachnoid space
+synpic55382|central endplate depressions of L2 and L3
+synpic41672|pneumonia|right subclavian venous catheter, with bibasilar reticulonodular ground glass opacities.
+synpic51200|cord infarct with secondary atrophy
+synpic29726|pneumomediastinum|streaky air lucencies
+synpic52935|filling defects within the venous structures of the right lower extremity consistent with deep venous thrombosis (DVT)
+synpic22578|achalasia|esophagus demonstrates aperistalsis
+synpic27104|pediatric pneumonia (round pneumonia)|round density within the right upper lobe
+synpic20327|Large hemiazygous vein crossing over the aorta toward the midline
+synpic42991|pneumonia
+synpic31920|long segment stricturing of the distal and terminal ileum with separation of bowel loops and button ulcers
+synpic46592|Fraying of metaphysis
+synpic27984|hiatal hernia
+synpic60667|an exophytic, echogenic, complex mass arising from the upper pole of the left kidney
+synpic49843|Large expansile mass lesion which is hypointense to bone marrow extending intracranially from the frontal clavarium
+synpic53568|Large central pelvic soft-tissue mass. Moderate ascities
+synpic59335|Intralobar Pulmonary Sequestration|Aberrant vessels are coming off of the lower thoracic aorta supplying the left lower lobe opacity
+synpic22798|hiatal hernia
+synpic15810|hilar adenopathy|hilar enlargement and pleural thickening
+synpic100584|superior aspect of failed posterior cervical hardware
+synpic39647|Mild cardiomegaly. Curvilinear opacity which extends over the right mainstem bronchus in the expected location of the azygous vein.
+synpic16028|takayasu arteritis; subclavian artery stenosis.
+synpic20002|simple bone cyst
+synpic53139|flattened inferior vena cava and a left abdominal wall mass
+synpic42247|Bilateral mediastinal adenopathy with right upper lobe airspace consolidation with a tree in-bud appearance.
+synpic52861|Joint effusion
+synpic24351|atrial enlargement and right ventricular enlargement Shunt vascularity consisting of increased size and number of pulmonary vessels
+synpic29754|adrenal myelolipoma|Round, well-circumscribed, mass arising from outside the right kidney in the expected location of the right adrenal gland
+synpic17013|choledocholithiasis|Mass-like high density material in common bile duct and gallbladder. Dilation of intra and extra biliary ducts and pancreatic duct
+synpic59273|hepatic artery aneurysm|Hepatic artery aneurysm with calcifications proximal to the origin of the right hepatic, left hepatic, and gastroduodenal arteries
+synpic16388|abnormal collection of vessels in the right anterior upper lobe
+synpic23762|hydronephrosis
+synpic29681|bilaterally enlarged, hyperechoic kidneys with scattered tiny cystic regions
+synpic18567|zenker's diverticulum|a large diverticulum extending from the esophagus posteriorly
+synpic26527|aberrant right subclavian artery passing posterior to the esophagus
+synpic27494|renal oncocytoma - mild hydronephrosis with a mass in the lower pole of the kidney
+synpic39432|partial anomalous pulmonary venous return|a vascular structure to the left of the aortic arch which is continuous with pulmonary veins draining the left upper lobe
+synpic17129|hypertrophic pyloric stenosis
+synpic47180|Infiltrative mass right frontal bone. Destruction of inner and outer table of frontal sinus. Homogeneous enhancement of mass
+synpic37257|classic bosniak class iii complex renal cyst
+synpic31909|dermoid cyst|Left adnexal lesion
+synpic16218|seminoma|hypervascular flow within  testicular lesions
+synpic33268|choledocholithiasis|Multiple stones in the patulous gall bladder, with a grossly dilated common bile duct with intrahepatic biliary dilation
+synpic52072|aortic coarctation|Left subclavian artery arising from left vertebral artery
+synpic42585|medial compartment subchondral sclerosis and joint effusion of the knee
+synpic40872|a soft tissue neurogenic tumor in the right neck|Expansile partially cystic lesion in the mid cervical spinal cord
+synpic56637|Bony inflitrative masses with bilateral calvarial and orbital involvement. Skull mass has both epidural and scalp extension. Orbital metastases invade superior and lateral extraconal spaces.
+synpic60060|thoracolumbar levoscoliosis with the apex at approximately T11.
+synpic28145|nephrolithiasis
+synpic40535|renal cysts and pelvicaliectasis
+synpic30899|cholelithiasis
+synpic38166|pulmonary embolism
+synpic27010|carotid artery dissection
+synpic34148|pulmonary embolism
+synpic48161|"the right lower lobe is fluid filled and enhancement of the interstitium of the lung is noted. The appearance is consistent with a ""drowned"" right lower lobe, usually seen from endobronchial obstruction"
+synpic47935|appendicitis|a thick-walled, enhancing, enlarged appendix
+synpic35742|Diffuse thickening of meninges with enhancement
+synpic59714|right neck mass extending from masticator space of base of neck. Mass has septations which enhance
+synpic20119|The common bile duct is prominently dilated and there is intrahepatic biliary ductal dilatation
+synpic21759|lipoma arborescens|the knee demonstrates an arborizing synovial based mass. The signal of the mass is low-intermediate and matches that of fat.
+synpic32329|occult stress fracture|Focal periosteal reaction and sclerosis through the distal femur metaphysis
+synpic40875|partially cystic intramedullary mass. left sided enlarged neural foramen, containing a nerve sheath tumor
+synpic29664|nonossifying fibroma|Eccentricly located, scalloped, well-circumscribed, lytic lesion of the lateral right tibial metaphysis with sclerotic margins
+synpic54621|Compression of left main bronchus
+synpic43739|osteochondroma|a pedunculated growth of bone in the distal femor and proximal tibia/fibula
+synpic43932|azygous lobe|Azygous Fissure in the medial right upper lung
+synpic54589|a well-defined intramedullary mass within the proximal left humerus diaphysis
+synpic33199|Dissection involving the aortic arch
+synpic20294|Dense homogeneous enhancement of the bilateral adrenals (HU 115 left and right) suggestive of bilateral pheochromocytoma
+synpic29727|pneumomediastinum
+synpic53121|Left supraclavicular adenopathy
+synpic16394|Large well circumscribed lytic lesion at base of calcaneal neck, with a small focus of central ossification
+synpic22378|uterine fibroid embolization|uterine artery embolization
+synpic22786|acute appendicitis|Dilated fluid filled appendix, containg a fecalith with associated inflammatory changes
+synpic50607|odontoid fracture
+synpic28082|osteochondroma
+synpic26367|a large mass in the left pelvis which extends through the left superior ramus
+synpic47250|partially cytsic mass left temporal lobe suggestive of pleomorphic  xanthoastrocytoma
+synpic31719|azygous lobe|a pleural invagination from the right apex investing the azygous vein.
+synpic100462|normal skull X-Ray, no visible pathology
+synpic20015|a round mass within the sternocleidomastoid muscle suggestive of fibromatosis coli
+synpic33113|a nodular opacity within the soft tissues between the third and fourth metatarsals and periosteal elevation at the base of the third metatarsal suggestive of osteomyelitis
+synpic54535|partial anomalous pulmonary venous return
+synpic32244|enchondroma|Lytic lesion with chondroid matrix of the proximal metadiaphysis of the humerus
+synpic56731|Soft tissue mass with calcification and muscle enlargement left hip
+synpic44467|amorphous, well circumscribed calcification in the area of the distal rotator cuff suggestive of calcific tendinitis
+synpic26972|Heterogeneous echotexture to the enlarged right testicle when compared to the left.
+synpic17677|Normal Chest - Lateral|mainstem bronchus; pulmonary artery; inferior vena cava; right hemidiaphragm is higher than the left one
+synpic31666|a left sided aortic arch with an aberrant right subclavian artery, which is looping posterior to the esophagus and trachea.
+synpic22580|duodenal diverticulum|an outpouching from the second portion of the duodenum which fills with contrast
+synpic41199|nephrolithiasis
+synpic51880|Enhancement of thickened bowel wall
+synpic29058|normal left foot
+synpic28808|tooth-like calcifications in the right hemipelvis
+synpic52878|autosomal dominant polycystic kidney disease with multiple cysts in the liver
+synpic56774|dural  fistula, avf
+synpic22839|aortic pseudoaneurysm|Saccular, heavily calcified outpouching projecting posterolaterally to the left off of the aortic arch.
+synpic55755|enlarged subarachnoid space
+synpic48310|Hypertrophic lt kidney with signs of dilution of renal collection systems. Rt Kidney absent
+synpic43587|The right sternocleidomastoid within normal limits
+synpic22370|blood flow within large heterogeneous mass with solid and cystic components occupying majority of the right testis
+synpic40379|Enhancing lesion right parietal lobe with surrounding edema
+synpic17161|Normal Tibia/Fibula
+synpic55104|Multiple well marginated bony masses arising from the posterior elements of the spine are suggestive of multiple osteochondromatosis
+synpic32615|a left hydropneumothorax and s/p resection of lymph nodes in the left axillary region. Prior left mastectomy.
+synpic34502|an enlarged main pulmonary segment along the superior aspect of the left heart border consistent with an atrial septal defect
+synpic39784|Ascites and free pelvic fluid with mild stranding of the mesentery
+synpic34324|increased interstitial markings in the right lower lobe of the lung.
+synpic54047|Diffuse thickening of the basal meninges with intense enhancement. Edema base of frontal lobes. Pan sinusitis
+synpic31791|pneumothorax
+synpic29050|hiatus hernia
+synpic31892|acute pyelonephritis
+synpic22876|Diffuse colonic wall thickening with associated marked inflammatory changes
+synpic28987|an abnormal contour to the aortic knob, with a focal indentation, with prominence of the descending aorta distal to this region suggestive of coarctation of the aorta
+synpic39914|cardiomegaly with prominent pulmonary arteries. The lungs are hypoinflated with bibasilar atelectasis
+synpic37232|pulmonary embolism
+synpic30752|Severely enlarged appendix
+synpic22253|low signal in marrow of proximal phalynx and cortical defect in dorsal proximal 1/3.
+synpic41207|spinal cord abscess|Enlarged lower cervical and upper thoracic cord Marked cord edema Intramedullary serpiginous enhancement
+synpic41396|synovial cyst
+synpic54057|Diffuse thickening of the basal meninges with intense enhancement. Edema base of frontal lobes. Pan sinusitis
+synpic32059|Soft tissue atrophy involving all of the toes of the right foot with relative sparing of the 2nd toe. Dense vascular calcifications.
+synpic26941|right breast area of hypoechogenicity suspicious for malignancy
+synpic31570|lytic lesion of the calcaneus. The lesion is well-circumscribed with a narrow zone of transition and appears non-aggressive.
+synpic31958|Large anterior mediastinum enhancing mass lesion.
+synpic18577|Transverse view of testicles demonstrates normal, symmetric appearing echotexture.
+synpic53067|chiari i with cervical spine syrinx|Chiari I malformation with tonsilar herniation into the spinal canal. Large cervical spinal cord hydrosyringomyelia.
+synpic55381|central endplate depressions of L2 and L3
+synpic26202|pneumomediastinum
+synpic39808|a soft-tissue mass encompassing and severly narrowing the left main stem bronchus
+synpic23531|Suspicious RLQ calcifications.
+synpic38589|lesion is present at the termination of the conus medullaris, which is consistent with an intrathecal lipoma.
+synpic19564|breast implant,  rupture, extracapsular silicone
+synpic51459|Midline fusion of the inferior poles of the kidneys consistent with small horseshoe kidney abnormality.
+synpic51142|hypoplastic cervical pedicle c3 on right|Hypoplastic right pedicle at C3. Dysmorphic lateral mass and facet joint at C3 on right. Incomplete fusion posterior arch of C3.
+synpic23777|hydronephrosis with a stone in the proximal ureter
+synpic28543|hiatal hernia
+synpic24410|angiomyolipoma
+synpic55743|enlarged subarachnoid space
+synpic1050|barium swallow
+synpic18873|osseous enlargement of the clavicle with trabecular and cortical thickening and disorganized trabecular bone within the glenoid consistent with paget disease of bone
+synpic24242|a large lesion involving thoracic spinal cord with multiple regions of patchy and nodular enhancement
+synpic22031|hilar adenopathy
+synpic29049|an air-containing retrocardiac soft-tissue density suggestive of hiatal hernia
+synpic23060|Well-circumscribed heterogeneously attentuating mass in right kidney consistent with angiomyolipoma
+synpic40468|Thin, dense navicular bone indicative of kohler's disease
+synpic45709|Blunt appearing conus medullaris Absent lower sacral segments No coccyx indicative of caudal regression syndrome
+synpic29651|achilles tendon rupture
+synpic58004|bilateral perched facets c5 c6 with spinal cord injury
+synpic26677|aneurysmal dilation of the abdominal aorta with a maximum diameter of 4.1 cm.
+synpic32648|comminuted fracture of medial femoral condyle. small joint effusion.
+synpic49465|left aortic arch with aberrant right subclavian artery|Right subclavian artery arises distal to left subclavian artery from the aortic arch and passes behind esophogus. Lymphadenopathy right supraclavicular fossa
+synpic18435|Cecum with take off of appendix showing contrast filling only the base of the appendix
+synpic32327|Focal periosteal reaction and sclerosis through the distal femur metaphysis consistent with occult stress fracture
+synpic54520|partial anomalous pulmonary venous return|partial anomalous pulmonary venous return from the left upper pulmonary vein draining into the left innominate vein
+synpic42806|pulmonary sarcoidosis
+synpic19183|cirrhosis of the liver|Common biled duct dilatation
+synpic27750|Tibial diaphyseal stress fracture
+synpic34409|synovial cyst
+synpic32821|pulmonary arteriovenous malformation
+synpic29658|stress fracture
+synpic19010|pulmonary embolism
+synpic38597|pulmonary embolism
+synpic38833|duplicated inferior vena cava|the left IVC ends in the left renal vein.
+synpic17767|myelolipoma
+synpic26669|pulmonary embolism|a peripheral wedge shaped opacity in the posterior basal segment of the right lower lobe.
+synpic15790|right popliteal vein thrombus
+synpic31821|enlarged hepatic and splenic shadows
+synpic50771|spine, epidural abscess
+synpic52783|osteogenesis imperfecta|diffuse osteopenia, multiple fractures, bowing of extremities, compression fractures of spine
+synpic19648|omphalocele after placement of the defect into the silastic silo.
+synpic50772|spine, epidural abscess
+synpic49087|diffuse idiopathic skeletal hyperostosis (dish), cervical and thoracic spine fractures
+synpic32934|pneumoperitoneum
+synpic51654|Enlargement and pathological enhancement of distal thoracic spinal cord and conus suggestive of transverse myelitis
+synpic43460|diffusely enlarged, heterogeneous right testicle suggestive of seminoma
+synpic32061|distention of the esophagus, which is filled with food debris and deviates the trachea anteriorly; suggestive of achalasia
+synpic17744|a spiculated 3.4 cm mass within the right upper lung with associated mild right upper lobe medial atelectasis. Cystic within the bilateral apices consistent with emphysema.
+synpic32313|torus fracture/buckle fracture of the distal radius|Cortical irregularity and buckling of the distal radial metaphysis consistent with a torus fracture.
+synpic54528|partial anomalous pulmonary venous return
+synpic45066|spinal dural arteriovenous fistula
+synpic29750|avascular necrosis of the femoral head
+synpic26826|Bilobulated lytic lesion in distal diaphysis of R tibia suggestive of nonossifying fibroma
+synpic46504|hepatic adenoma
+synpic28555|Increased interstitial markings at the apices of both lungs suggestive of interstitial pneumonitis
+synpic45713|Blunt appearing conus medullaris No tethering of spinal cord Absent lower sacral segments consistent with caudal regression syndrome
+synpic58399|traumatic carotid-cavernous fistula
+synpic32696|stress fracture
+synpic27587|an abnormal diffuse reticulonodular interstitial pattern suggestive of lymphangitic carcinomatosis
+synpic28923|stress fracture
+synpic42068|avascular necrosis
+synpic26538|large soft tissue mass within the mesentery. There is associated small bowel dilatation suggestive of small bowel lymphoma
+synpic45941|lateral radiographs of left ankle
+synpic19184|Gall bladder sludge suggestive of cirrhosis of the liver
+synpic32151|pulmonary sarcoidosis
+synpic16215|uterine fibroid embolization
+synpic55742|enlarged subarachnoid space
+synpic42809|diffusely increased bilateral lung nodularity and bilateral hilar fullness suggestive of pulmonary sarcoidosis
+synpic22317|Cartilage-covered exostosis along the external surface of the 4th MT bone consistent with osteochondroma
+synpic43687|a soft tissue mass within the left hemiabdomen extending from the left upper quadrant to the proximal left lower quadrant that appears to be displacing the descending colon.
+synpic32650|comminuted fracture of medial femoral condyle. small joint effusion.
+synpic42023|fractures of the base of the fifth metatarsal
+synpic46975|Large, expansile lytic lesion of the left distal femoral metaphysis with a wide zone of transition and cortical destruction. There is an associated soft tissue mass suggestive of ewing sarcoma
+synpic31402|vertebral osteomyelitis and diskitis
+synpic30680|osteoid osteoma
+synpic53556|Guiding IVC filter to placement T11-T12 to treat supra-renal inferior vena cava clot
+synpic34165|Increased thickness of the pylorus muscle consistent with hypertrophic pyloric stenosis
+synpic46732|pulmonary embolism
+synpic592|neurofibromatosis-1, nf1, nf-1
+synpic37873|Moderate spinal cord expansion from T9 to conus suggestive of spinal cord astrocytoma
+synpic22661|Large heterogeneously enhancing right hepatic mass with mass effect on left lobe consistent with hepatoblastoma
+synpic24422|right aortic arch with aberrant left subclavian artery
+synpic8222|destruction of tuft of distal phalanx great toe consistent with osteomyelitis
+synpic54384|Trachea shifted slightly to the left is suggestive of a right sided aortic arch.
+synpic33440|diverticulitis
+synpic32225|pulmonary arteriovenous malformation
+synpic37731|a rounded soft tissue density mass in the left anterior chest wall adjacent to the pectoralis major muscle and no invasion of the surrounding structures.
+synpic52604|ankylosing spondylitis
+synpic100463|right c6 radiculopathy and ankylosing spondylitis|Ankylosis with anterior fusion from C2 through T1
+synpic33849|acl injury
+synpic56768|dural  fistula, avf
+synpic31100|medullary nephrocalcinosis
+synpic50573|aneurysm, cerebral
+synpic31079|aspergillosis and the air-crescent sign
+synpic32387|torus fracture/buckle fracture of the distal radius
+synpic16908|horseshoe kidney
+synpic57721|intramedullary (intradural-intramedullary), spinal lesions
+synpic29817|osteochondroma
+synpic52848|Expansile lytic lesion centered on the proximal humeral metaphysis with subarticular extension. It is geographic, and there is no significant marginal sclerosis. No periosteal reaction. The overlying cortex is thinned, and there is a pathologic fracture of the humeral neck.
+synpic42262|enlarged enhancing fluid filled appendix with surrounding inflammatory changes and shoddy adenopathy|acute appendicitis
+synpic26529|ulcerative colitis|Absent haustral clefts with tubular, narrowed colon
+synpic56617|c-spine fracture|Occlusion of the vertebral artery at the C2 level with distal reconstitution via muscular collateral branches.
+synpic17788|infiltrating ductal carcinoma
+synpic24147|abnormal thickening of the jejunum with aneurismal dilitation and significant mesenteric adenopathy suggestive of small bowel lymphoma
+synpic60344|Heterogeneous renal mass with non-enhancing regions suggestive of necrosis. It causes displacement of the nearby organs and compression of left renal vein suggestive of wilms tumor
+synpic45046|Nondisplaced transverse fracture through the metadiaphysis of the base of the 5th metatarsal.
+synpic25208|an anterior mediastinal mass suggestive of nodular sclerosing hodgkin’s lymphoma
+synpic12950|achalasia
+synpic35643|lateral femoral notch sign
+synpic42586|spontaneous osteonecrosis of the knee
+synpic23543|varicocele
+synpic55741|enlarged subarachnoid space
+synpic54287|carotid artery dissection
+synpic36418|double aortic arch
+synpic54750|Midline contrast collection at the level of the hypopharynx compatible with zenker's diverticulum
+synpic22256|osteomyelitis
+synpic24419|right aortic arch with aberrant left subclavian artery
+synpic51811|caudal regression syndrome|Aplasia lower sacrum and coccyx Blunt conus with dilated central canal Aplasia of the left kidney
+synpic39317|pulmonary arteriovenous malformation (pavm)
+synpic16043|lipoma arborescens|Fatty villous synovial proliferation with small effusion within the elbow.
+synpic17493|Inhomogeneous - hypoechoic swelling of the left testicle and absent blood flow consistent with testicular torsion
+synpic22660|Large heterogeneously enhancing right hepatic mass with mass effect on left lobe.
+synpic20019|fibromatosis coli
+synpic32645|subtle lucency in the right femoral head. A small knee joint effusion is present.
+synpic22927|Double aortic arch with atresia of a segment of the left arch.
+synpic33991|Heterogeneously hypointense, minimally-enhancing geographic left greater trochanteric bone lesion
+synpic22606|Pedunculated bony lesion emanating from the diaphysis of the humerus and pointing away from the joint suggestive of osteochondroma
+synpic29192|Irregular broadened middle facet of the subtalar joint with classic abnormal orientation consistent with talocalcaneal coalition
+synpic23760|a well circumscribed calcification in the right upper quadrant at the level of L3
+synpic21811|a large mass involving the SVC (superior vena cava) and right atrium.
+synpic33438|acute calculous cholecystitis
+synpic18633|Large, heterogenous mass with well-defined pseudocapsule arises from the right hepatic lobe; suggestive of hepatoblastoma
+synpic32094|lucency surrounding distal tibial external fixator screw suggestive of osteomyelitis
+synpic53836|coarctation of the aorta
+synpic28641|testicular microlithiasis
+synpic47202|Enhancing lesion right cerebellar hemisphere with surrounding vasogenic edema.
+synpic31689|liver hemangioma
+synpic20036|a small bowel follow through shows multiple dilated contrast filled loops of small bowel. Contrast is also seen in the transverse and descending colon.
+synpic56906|spine, epidural abscess
+synpic55464|There is widening of the mediastinum, mostly extending to the left.
+synpic31298|left aortic arch with aberrant right subclavian artery
+synpic27975|fused vertebrae and bony spicule extending across the spinal canal; split cord defect consistent with diastematomyelia
+synpic39430|partial anomalous pulmonary venous return
+synpic47249|partially cystic mass left temporal lobe. No bone remodeling.
+synpic22106|varicocele
+synpic55095|Multiple well marginated bony masses arising from the posterior elements of the spine, suggestive of multiple osteochondromatosis
+synpic55760|enlarged subarachnoid space
+synpic100464|right c6 radiculopathy and ankylosing spondylitis|Ankylosis with anterior fusion from C2 through T1.
+synpic46422|paraspanal mass thoracic spine suggestive of chloroma
+synpic54785|dilated bowel loops.
+synpic22997|pneumomediastinum
+synpic31554|vertebral osteomyelitis and diskitis|intervertebral disk space narrowing with endplate irregularity and absence of osteophyte formation.
+synpic37252|classic bosniak class iii complex renal cyst
+synpic19414|hypertrophic pyloric stenosis
+synpic33529|hyperaeration and increased lucency of the right hemithorax suggestive of foreign body aspiration
+synpic23651|cirrhosis of the liver
+synpic42200|anterior mediastinal mass
+synpic31425|idiopathic synovial osteochondromatosis
+synpic28680|intramedullary lipoma of the spinal cord
+synpic58391|traumatic carotid-cavernous fistula
+synpic25413|bicornuate uterus
+synpic39188|femoral neck stress fractures
+synpic34629|cystic fibrosis|parahilar linear opacities with peribronchial cuffing.
+synpic24239|transverse myelitis|spinal cord expansion and hyperintensity.
+synpic38839|duplicated inferior vena cava
+synpic38605|choledocholithiasis
+synpic32846|achalasia
+synpic32695|stress fracture
+synpic32681|focal lucency across the anterior portion of the skull consistent with osteoporosis circumscripta and suggestive of paget disease of bone
+synpic29824|ectopic pregnancy
+synpic50613|diffuse bone marrow edema and involvement of the adjacent soft tissues suggestive of Ewing's Sarcoma
+synpic41497|ill-defined isodense mass in the medial-posterior left kidney, with a lobulated, irregular contour suggestive of renal oncocytoma
+synpic31407|Right paraspinal rim enhancing fluid is demonstrated compatible with a paraspinal abscess.
+synpic22987|scaphoid fracture
+synpic22656|bilateral hilar lymphadenopathy with right paratracheal lymphadenopathy suggestive of sarcoid.
+synpic36907|calcific tendinitis
+synpic15440|hepatic hemangioma
+synpic23265|focal nodular hyperplasia
+synpic21830|an isthmus of contiguous renal parenchyma confirming the findings of a horseshoe kidney.
+synpic24469|pulmonary embolism
+synpic51478|several small osteosclerotic lesions with most in a periarticular pattern consistent with osteopoikilosis
+synpic27181|Multiple pulmonary artery fillings defects consistent with pulmonary embolus
+synpic23948|chondrocalcinosis
+synpic23201|Non enhancing fatty infiltration of the omental fat suggestive of segmental omental infarct
+synpic16804|Abnormal contour to the superior mediastinum at the right paratracheal region. The trachea is abnormally shifted to the left. Suggestive of Right aortic arch with aberrant left subclavian artery
+synpic26943|invasive lobular carcinoma
+synpic22594|aortic coarctation
+synpic22899|ground-glass opacities suggestive of interstitial pneumonitis
+synpic21570|osteoid osteoma
+synpic29756|nonossifying fibroma
+synpic34122|left kidney with hydronephrosis and delayed (no) filling of collecting system by contrast suggestive of transitional cell carcinoma
+synpic58602|Large destructive left apical mass involving the chest wall. There is vertebral destruction, pleural metastasis, lymphadenopathy, and a contralateral lung nodules consistent with pancoast tumor
+synpic40304|homogeneous density of thickened bowel wall with intestinal lumen surrounded by edematous mucosa suggestive of crohn's disease
+synpic100583|stable lateral positioning of cervical hardware.
+synpic34711|Bilateral well-defined, smooth contoured, non-calcified paraspinal (posterior mediastinal) masses. Vertebral osseous trabeculae appears lace-like / coarsenedc suggestive of extramedullary hematopoiesis
+synpic16255|rheumatoid arthritis
+synpic16899|atrial septal defect
+synpic50770|spine, epidural abscess
+synpic52302|pelvic mass and pericolic fluid collection
+synpic22449|Radiopaque lesion clearly posterior to the trachea consistent with esophageal foreign body
+synpic51236|Bilateral total hip arthroplasties
+synpic55265|aberrant right subclavian artery (arsa)
+synpic29833|acute appendicitis
+synpic25035|Large hypodense intraluminal filling defects within the main right pulmonary artery and right lobar branches constant with pulmonary embolism
+synpic57437|Destructive lesion C7 with spinal cord compression
+synpic37400|hypertrophic pyloric stenosis
+synpic31451|a focal area of thickening of the junctional zone posteriorly compatible with focal adenomyosis.
+synpic39774|ankylosing spondylitis
+synpic19532|calcified bilateral hilar and subcarinal lymphadenopathy with calcified nodules centrally.
+synpic36694|inguinal hernia involving bladder|Bladder herniating through right inguinal canal
+synpic31143|midgut malrotation
+synpic27931|hiatal hernia
+synpic24698|intramuscular hemangioma
+synpic52605|ankylosing spondylitis
+synpic16864|a filling defect at the posterobasal right bladder base in the region of the right ureteral orifice suggestive of transitional cell carcinoma
+synpic17522|sarcoidosis
+synpic21173|spine, intradural lipoma
+synpic22340|Metaphyseal cupping, fraying and irregularity, with bowing deformity of the tibia consistent with rickets
+synpic18936|rheumatoid arthritis
+synpic18787|intraosseous lipoma
+synpic42576|spontaneous osteonecrosis of the knee
+synpic39918|a percutaneously placed atrial septal defect closure device.
+synpic19413|hypertrophic pyloric stenosis
+synpic50575|aneurysm, cerebral
+synpic43618|crossed fused ectopia
+synpic45858|renal mass disturbs the contour of left kidney. no venous thrombosis or adenopathy.
+synpic40469|Thin, dense navicular bone consistent with kohler's disease
+synpic33432|air within the soft tissues of the neck and the retropharyngeal space of the neck
+synpic32163|hydropneumothorax
+synpic29230|Enhancing soft tissue mass lesions within the bilateral paratracheal and cervical lymph node chain suggestive of sarcoidosis
+synpic46635|pulmonary embolism
+synpic46825|empyema
+synpic56204|lumbar herniated disc
+synpic33352|osteochondroma
+synpic58049|carotid artery dissection
+synpic23500|a well circumscribed mass in the lingula of the lung suggestive of small cell lung carcinoma (sclc)
+synpic27901|hypertrophic pyloric stenosis
+synpic53119|Heterogeneous, mixed solid and cystic mass of the left testis suggestive of mixed germ cell testicular tumor
+synpic27904|acute appendicitis
+synpic56630|epidural spinal hematoma
+synpic46499|hepatic adenoma
+synpic18534|midgut malrotation
+synpic39624|osteochondritis dissecans
+synpic31123|Well defined, rounded soft tissue density at right cardiophrenic angle consistent with pericardial cyst
+synpic55398|A large irregular bony exostosis arising from the cortex of the left iliac wing consistent with osteochondroma
+synpic42066|extensive degenerative changes on the bilateral femoral heads and acetabula consistent with avascular necrosis
+synpic27447|pulmonary arteriovenous malformation
+synpic51288|Soft tissue mass of the distal posterolateral left thigh with cortical involvement of the posterolateral left femoral diaphysis
+synpic58680|pyogenic discitis
+synpic54521|partial anomalous pulmonary venous return
+synpic59048|c-spine fracture
+synpic28650|hydronephrosis
+synpic27243|duplicated renal collecting system
+synpic56881|neuroblastoma
+synpic55193|capillary hemangioma
+synpic18613|hepatoblastoma
+synpic33243|endometrioma
+synpic16256|nonossifying fibroma
+synpic50752|achalasia
+synpic24948|a focal low signal intensity of the right femoral neck with discontinuity of the cortex of the anterior femoral neck.
+synpic49454|angiomyolipoma
+synpic23787|large mass descending into the pelvis compressing the Inferior Vena Cava suggestive of diffuse rhabdomyosarcoma
+synpic21266|intralobar pulmonary sequestration
+synpic31627|Echogenic material on gallbladder wall with posterior shadowing consistent with adenomyomatosis
+synpic59042|c-spine fracture
+synpic32171|appendix extending from the cecum into the inguinal canal consistent with amyand's hernia
+synpic36231|signal drop-out in the left adrenal mass suggestive of adrenal adenoma
+synpic40614|a lucent (fat density) mass with a single bony septation consistent with intraosseous lipoma
+synpic49071|mass in the right frontal lobe associated with edema
+synpic32386|torus fracture/buckle fracture of the distal radius
+synpic51653|transverse myelitis
+synpic43619|crossed fused ectopia
+synpic32167|appendix extending from the cecum into the inguinal canal consistent with amyand's hernia
+synpic20964|Abnormal distribution of glandular tissue, with somewhat of a swirling pattern suggestive of fat necrosis
+synpic42218|intraosseous lipoma
+synpic22924|double aortic arch
+synpic55295|tethered spinal cord with terminal spinal lipoma
+synpic35736|Diffuse thickening of meninges with enhancement suggestive of leptomeningeal sarcoid
+synpic27198|cavernous hemangioma
+synpic21974|occult stress fracture
+synpic42590|spontaneous osteonecrosis of the knee
+synpic15444|hepatic hemangioma
+synpic32201|ectopic pregnancy
+synpic20694|pneumoperitoneum
+synpic52304|pelvic mass
+synpic32176|amyand's hernia
+synpic54519|partial anomalous pulmonary venous return
+synpic42577|spontaneous osteonecrosis of the knee
+synpic33850|acl injury
