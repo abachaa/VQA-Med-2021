@@ -21,7 +21,7 @@ VQA Data:
 - Validation set: Consists of 500 radiology images and associated questions/answers about Abnormality  
 - Test set: 500 radiology images and 500 questions about abnormality. Participants were tasked with generating the answers based on the visual content of the images.  
 
-The VQA-Med dataset was also used the ImageCLEF Caption & Concept Prediction Task: https://www.imageclef.org/2021/medical/caption 
+The VQA-Med dataset was also used in the ImageCLEF Caption & Concept Prediction Task: https://www.imageclef.org/2021/medical/caption 
 
 VQG Data:
 - The VQG 2021 validation set contains 200 questions associated with 85 radiology images. 
@@ -45,23 +45,27 @@ The following preprocessing is applied before running the evaluation metrics on 
 
 Code: https://github.com/abachaa/VQA-Med-2021/tree/main/EvaluationCode 
 
-Reference
-----------
 
-If you use the VQA-Med 2021 dataset, please cite our paper: "Overview of the VQA-Med Task at ImageCLEF 2021: Visual Question Answering and Generation in the Medical Domain". 
-Asma Ben Abacha, Mourad Sarrouti, Dina Demner-Fushman, Sadid A. Hasan, and Henning Müller. CLEF 2021 Working Notes. 
+License
+-------------------
 
-@Inproceedings{ImageCLEF-VQA-Med2021,
+This work is released under the Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). 
+If you use the VQA-Med 2021 dataset, please cite our paper:  
 
-    author = {Asma {Ben Abacha} and Mourad Sarrouti and Dina Demner-Fushman and Sadid A. Hasan and Henning M\"uller},
-    title = {Overview of the VQA-Med Task at ImageCLEF 2021: Visual Question Answering and Generation in the Medical Domain},
-    booktitle = {CLEF 2021 Working Notes},
-    series = {{CEUR} Workshop Proceedings},
-    year = {2021},
-    publisher = {CEUR-WS.org},
-    month = {September 21-24},
-    address = {Bucharest, Romania} 
-    }
+- "Overview of the VQA-Med Task at ImageCLEF 2021: Visual Question Answering and Generation in the Medical Domain". Asma Ben Abacha, Mourad Sarrouti, Dina Demner-Fushman, Sadid A. Hasan, and Henning Müller. CLEF 2021 Working Notes.
+  
+
+         @Inproceedings{ImageCLEF-VQA-Med2021,
+         author = {Asma {Ben Abacha} and Mourad Sarrouti and Dina Demner-Fushman and Sadid A. Hasan and Henning M\"uller},
+         title = {Overview of the VQA-Med Task at ImageCLEF 2021: Visual Question Answering and Generation in the Medical Domain},
+         booktitle = {CLEF 2021 Working Notes},
+         series = {{CEUR} Workshop Proceedings},
+         year = {2021},
+         url = {https://ceur-ws.org/Vol-2936/paper-87.pdf}, 
+         publisher = {CEUR-WS.org},
+         month = {September 21-24},
+         address = {Bucharest, Romania} 
+         }
     
      
 Contact Information
